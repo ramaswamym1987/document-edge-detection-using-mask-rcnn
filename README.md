@@ -1,5 +1,3 @@
-# document-edge-detection-using-mask-rcnn
-
 # Document Edge Detection using Mask RCNN
 
 ## Steps:
