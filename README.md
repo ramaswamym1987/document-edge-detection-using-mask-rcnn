@@ -54,5 +54,5 @@
 python doc.py train --dataset=/Mask_RCNN/samples/doc/dataset --weights=/Mask_RCNN/samples/doc/coco/mask_rcnn_coco.h5
 ```
 
-
+Note : Step is not need if your training starts with out any erros.
 
